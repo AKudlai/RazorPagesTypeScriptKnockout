@@ -1,0 +1,13 @@
+{
+  "version": "1.0.0",
+  "name": "asp.net",
+  "private": true,
+  "devDependencies": {},
+  "dependencies": {
+    "@types/knockout": "^3.4.66",
+    "@types/knockout.mapping": "^2.0.35",
+    "knockout": "^3.5.0",
+    "knockout.mapping": "^2.4.3",
+    "requirejs": "^2.3.6"
+  }
+}
